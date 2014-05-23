@@ -39,7 +39,7 @@ body {
   font-size: 100%; }
 
 body {
-  background: white;
+  /* background: #c73037; */
   color: #222222;
   padding: 0;
   margin: 0;
@@ -1352,6 +1352,17 @@ meta.foundation-mq-topbar {
     clear: both;
     height: 1px;
     width: 100%; }
+  .top-bar-section ul li i {
+    display: block;
+    width: 100%;
+    padding: 0 0 0 0;
+    padding-left: 0;
+    padding-right: 0;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    text-transform: none;
+    background: #333333;
+  }
   .top-bar-section ul li > a {
     display: block;
     width: 100%;
