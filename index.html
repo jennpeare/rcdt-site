@@ -9,13 +9,10 @@
   <!-- javascript section -->
   <script src="js/vendor/modernizr.js"></script>
   <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="js/vendor/jquery.js"></script>
   <script src="js/foundation/foundation.js"></script>
   <script src="js/foundation/foundation.topbar.js"></script>
   <script src="js/foundation/foundation.orbit.js"></script>
-  <script>
-  $("#header").load("header.html");
-  $("#footer").load("footer.html");
-  </script>
 </head>
 
 <body>
@@ -85,7 +82,9 @@
   <div id="footer"></div>
 
   <script>
+  $("#header").load("header.html");
   $(document).foundation();
+  $("#footer").load("footer.html");
   </script>
 </body>
 </html>
