@@ -1,9 +1,6 @@
-rcdt-site
-=========
-
 Rutgers Chinese Dance Troupe
-
-- [ ] Insert an example of eboard panel
+============================
+- [x] Insert an example of eboard panel
 - [ ] Finish "Join Us" section
 - [ ] Finish footer
   - [ ] sponsors
