@@ -1,7 +1,8 @@
 Rutgers Chinese Dance Troupe
 ============================
 - [x] Insert an example of eboard panel
-- [ ] Finish "Join Us" section
+- [x] Finish "Join Us" section
+- [ ] "Upcoming Events" section
 - [ ] Finish footer
   - [ ] sponsors
   - [ ] gallery images
